@@ -7,9 +7,46 @@
     <title>Code Quiz</title>
 </head>
 <body>
-    <div id="quiz-container">
-        <button id="start-btn">Start Quiz</button>
-    </div>
+    <header>
+        <div id="headerContainer" style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
+            <button id="viewHighScores">View High Scores</button>
+            <div id="timer">Time: <span id="timeLeft">75</span> seconds</div>
+        </div>
+    </header>
+
+    <main>
+        <section id="introSection">
+            <h1>Welcome to the JavaScript Quiz!</h1>
+            <p>Test your knowledge with this timed quiz. Incorrect answers will cost you 10 seconds. Good luck!</p>
+            <button id="startButton">Start Quiz</button>
+        </section>
+
+        <section id="questionSection" style="display: none;">
+            <h2 id="questionText"></h2>
+            <ul id="answerOptions">
+                <!-- Dynamically filled with JavaScript -->
+            </ul>
+        </section>
+
+        <section id="resultsSection" style="display: none;">
+            <h2>Quiz Finished!</h2>
+            <p>Your score: <span id="score"></span></p>
+            <form id="scoreSubmission">
+                <label for="initials">Enter initials:</label>
+                <input type="text" id="initials" name="initials" required>
+                <button type="submit">Submit Score</button>
+            </form>
+        </section>
+
+        <section id="highScoresSection" style="display: none;">
+            <h2>High Scores</h2>
+            <div id="highScoresList">
+                <!-- Dynamically filled with JavaScript -->
+            </div>
+            <button id="goBackButton">Go Back</button>
+            <button id="clearScoresButton">Clear High Scores</button>
+        </section>
+    </main>
     <script src="script.js"></script>
 </body>
 </html>
