@@ -48,4 +48,4 @@ Project Deployed Link: https://tarunpara.github.io/Web-APIs-Challenge/
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-![Alt Text](url_of_your_gif)
+![Alt Text](C:\Users\tarun\Pictures\Camera Roll)
