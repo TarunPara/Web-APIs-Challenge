@@ -36,16 +36,15 @@ Contributions to the JavaScript Quiz Application are welcome. To contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
+
+## Deployed 
+
+My Repo: https://github.com/TarunPara/Web-APIs-Challenge/settings/pages
+
+Project Deployed Link: https://tarunpara.github.io/Web-APIs-Challenge/
+
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/yourrepository](https://github.com/yourusername/yourrepository)
-
-## Acknowledgments
-
-- Use this section to list resources you find helpful and would like to give credit to.
