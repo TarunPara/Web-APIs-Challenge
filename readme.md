@@ -4,7 +4,7 @@
 
 This JavaScript Quiz Application is an interactive web-based quiz designed to test users on their knowledge of JavaScript fundamentals. It features a timed quiz on JavaScript-related questions, where users can answer multiple-choice questions within a set time limit. Incorrect answers result in a time penalty, encouraging both speed and accuracy. The application aims to provide an engaging way for users to assess their JavaScript skills and track their progress over time.
 
-Uploading Code Quiz - Google Chrome 2024-02-23 05-57-51.mp4…
+
 ## Features
 
 - **Timed Quiz**: Start the quiz with a fixed time limit to answer all questions.
@@ -49,4 +49,4 @@ Project Deployed Link: https://tarunpara.github.io/Web-APIs-Challenge/
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-![Alt Text](C:\Users\tarun\Pictures\Camera Roll)
+
